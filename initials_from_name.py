@@ -1,3 +1,5 @@
+# This Program takes your name and converts it into your intials :D
+
 name = input('Please enter your name: ')
 
 def initials(name):
